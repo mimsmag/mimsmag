@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mimsmag
+- 👋 Hi, I’m @Mimi
 - 👀 I’m interested in Blockchain Technology.
 - 🌱 I’m currently learning on Machine Learning.
 - 💞️ I’m looking to collaborate on still on a look out.
